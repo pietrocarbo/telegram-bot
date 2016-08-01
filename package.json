@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pietrocarbo/telegram-bot/issues"
   },
-  "homepage": "https://github.com/pietrocarbo/telegram-bot#readme"
+  "homepage": "https://github.com/pietrocarbo/telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3"
+  }
 }
